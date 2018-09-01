@@ -4,7 +4,7 @@
 
 ### Reflection
 
-### 1. Pipeline Description.
+### 1. Pipeline Description
 
 My pipeline consisted of 6 steps, as follows:
 
